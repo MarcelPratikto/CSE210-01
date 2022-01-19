@@ -1,0 +1,15 @@
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\tictactoe.exe
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\tictactoe.deps.json
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\tictactoe.runtimeconfig.json
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\tictactoe.dll
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\ref\tictactoe.dll
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\bin\Debug\net6.0\tictactoe.pdb
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.csproj.AssemblyReference.cache
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfoInputs.cache
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfo.cs
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.dll
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\ref\tictactoe.dll
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.pdb
+D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.genruntimeconfig.cache
