@@ -13,3 +13,18 @@ D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 
 D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\ref\tictactoe.dll
 D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.pdb
 D:\Google Drive\Google Drive\College and Universities\BYU Idaho\2022 Winter\CSE 210 Programming with Classes\W03\tictactoe\obj\Debug\net6.0\tictactoe.genruntimeconfig.cache
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\tictactoe.exe
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\tictactoe.deps.json
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\tictactoe.runtimeconfig.json
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\tictactoe.dll
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\ref\tictactoe.dll
+D:\Github Clones\CSE210-01\tictactoe\bin\Debug\net6.0\tictactoe.pdb
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.csproj.AssemblyReference.cache
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfoInputs.cache
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.AssemblyInfo.cs
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.dll
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\ref\tictactoe.dll
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.pdb
+D:\Github Clones\CSE210-01\tictactoe\obj\Debug\net6.0\tictactoe.genruntimeconfig.cache

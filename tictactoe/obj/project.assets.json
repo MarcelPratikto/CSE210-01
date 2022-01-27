@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\Google Drive\\College and Universities\\BYU Idaho\\2022 Winter\\CSE 210 Programming with Classes\\W03\\tictactoe\\tictactoe.csproj",
+      "projectUniqueName": "D:\\Github Clones\\CSE210-01\\tictactoe\\tictactoe.csproj",
       "projectName": "tictactoe",
-      "projectPath": "D:\\Google Drive\\Google Drive\\College and Universities\\BYU Idaho\\2022 Winter\\CSE 210 Programming with Classes\\W03\\tictactoe\\tictactoe.csproj",
+      "projectPath": "D:\\Github Clones\\CSE210-01\\tictactoe\\tictactoe.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\Google Drive\\College and Universities\\BYU Idaho\\2022 Winter\\CSE 210 Programming with Classes\\W03\\tictactoe\\obj\\",
+      "outputPath": "D:\\Github Clones\\CSE210-01\\tictactoe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
